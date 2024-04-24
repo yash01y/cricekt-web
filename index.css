@@ -1,0 +1,112 @@
+.main-container{
+    width: 1250px;
+
+}
+body{
+    font-family: "Jacques Francois", serif;;
+}
+.logo{
+    margin: -200px 20px;
+}
+.text{
+    margin: 30px 250px;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    font-family: "Jacques Francois", serif;
+}
+
+#back{
+    width: 1250px;
+}
+#logo{
+    margin-top: -200px;
+}
+#bam{
+    background-image: none;
+}
+#nav{
+    margin-top: -40px;
+}
+#h{
+    margin-top:-130px ;
+}
+
+.navbar{
+    background-color: #68DAFF;
+    height: 30px;
+    width: 1250px;;
+    margin-top: -22px;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none; 
+    align-items: center;
+    margin: 7px 0px; 
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li a{
+    padding: 50px 50px;
+    text-decoration: none;
+    color: black;
+}
+.hero{
+    display: flex;
+    align-items: center;
+}
+.cric{
+    margin: -750px 100px;
+    font-size: 50px;
+}
+#orange{
+    color: #F68013;
+    font-weight: bold;
+}
+#white{
+    color: white;
+    font-weight: bold;
+}
+#green{
+    color: #13F61C;
+    font-weight: bold;
+}
+#button-1{
+    border-radius: 30px;
+    margin-left: 125px;
+    background-color: #F68013;
+    color: white;
+    height: 35px;
+    width: 100px;
+}
+#button-2{
+    border-radius: 30px;
+    margin-left: 125px;
+    background-color: #F68013;
+    color: white;
+    height: 35px;
+    width: 100px;
+
+}
+#size-1{
+    font-size: 20px;
+    margin: 10px 100px;
+}
+#size-2{
+    font-size: 20px;
+    margin: 10px 80px;
+}
+#d{
+    text-decoration: none;
+    color: white;
+}
+#s{
+    color: white;
+}
+
+
+
+

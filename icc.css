@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #68DAFF;
+    height: 36px;
+    width: 1250px;;
+    margin-top: -22px;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none; 
+    align-items: center;
+    margin: 12px 0px; 
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li a{
+    padding: 50px 50px;
+    text-decoration: none;
+    color: black;
+}
+#t{
+    width:1220px;
+}
+#e{
+    padding: 20px;
+}
+#p{
+    margin-left: 20px;
+}

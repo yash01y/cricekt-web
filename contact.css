@@ -1,0 +1,60 @@
+.main-container{
+    width: 1250px;
+
+}
+body{
+    font-family: "Jacques Francois", serif;;
+    background-attachment: fixed;
+    background-color: #68d1f5;
+}
+.navbar{
+    background-color: #68DAFF;
+    height: 36px;
+    width: 1250px;;
+    margin-top: -22px;
+    
+}
+.navbar li{
+    float: left;
+    list-style: none; 
+    align-items: center;
+    margin: 12px 0px; 
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li a{
+    padding: 50px 50px;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    margin: 0px 500px;
+    margin-top: 60px;
+    font-size: 50px;
+}
+#img{
+    width: 250px;
+    margin-left: 20px;
+    margin-top:120px;
+    background-image: none;
+}
+form{
+    margin-left: 400px;
+    margin-top: -21%;
+}
+td{
+    padding-bottom: 18px;
+}
+#i{
+    border-radius: 5px;
+    
+}
+.button{
+    margin-left: 70px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #F68013;
+    color: white;
+}
